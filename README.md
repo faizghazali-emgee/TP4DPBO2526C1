@@ -1,4 +1,4 @@
-# TP4 DPBO
+# TP4 DPBO 2526 C1
 
 # Sumpah Pemuda
 Saya <strong>Faiz Muhammad Ghazali</strong> dengan <strong>NIM 2504531</strong> mengerjakan Tugas Praktikum 4 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
@@ -65,10 +65,10 @@ Program dilengkapi dengan penanganan kesalahan untuk memastikan integritas data 
 # Dokumentasi
 
 ## Add
-![Add](Dokumentasi/Add.mp4)
+![Add](Dokumentasi/Add.gif)
 
 ## Update
-![Update](Dokumentasi/Update.mp4)
+![Update](Dokumentasi/Update.gif)
 
 ## Remove
 ![Remove](Dokumentasi/Delete.gif)
