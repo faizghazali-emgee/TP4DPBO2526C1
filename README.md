@@ -65,10 +65,10 @@ Program dilengkapi dengan penanganan kesalahan untuk memastikan integritas data 
 # Dokumentasi
 
 ## Add
-![Add](Dokumentasi/Add.gif)
+![Add](Dokumentasi/Add.mp4)
 
 ## Update
-![Update](Dokumentasi/Update.gif)
+![Update](Dokumentasi/Update.mp4)
 
 ## Remove
 ![Remove](Dokumentasi/Delete.gif)
