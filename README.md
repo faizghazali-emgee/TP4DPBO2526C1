@@ -70,5 +70,5 @@ Program dilengkapi dengan penanganan kesalahan untuk memastikan integritas data 
 ## Update
 ![Update](Dokumentasi/Update.gif)
 
-## Remove
-![Remove](Dokumentasi/Delete.gif)
+## Delete
+![Delete](Dokumentasi/Delete.gif)
